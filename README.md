@@ -4,3 +4,7 @@
 ![PHP](https://img.shields.io/badge/Give%20me%20some-PHP-ff69b4)
 ![JavaScript](https://img.shields.io/badge/Let%20me%20have-JavaScript-yellow)
 ![C#](https://img.shields.io/badge/Needs%20to%20practice-C%23-blue)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40hejulrica-green)](https://www.instagram.com/hejulrica)
+
+
+
